@@ -1,4 +1,9 @@
-### Hi there 👋
+Portfólio - Thainá
+
+## 👋 Hello! Welcome to my Github profile.
+## 👋 Olá! Bem vindo ao meu perfil do Github.
+### Eu me chamo Thainá Alves, sou formada em engenharia elétrica desde 2019 e hoje trabalho na área de relacionamento do PicPay. Desejo minha primeira oportunidade de atuação na área de tecnologia. Atualmente, estou ampliando meus conhecimentos para me tornar um desenvolvedora Front-end!
+### A ideia é reunir alguns dos projetos que estou realizando durante meus estudos. 
 
 <!--
 **ThainaGoulart/ThainaGoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
